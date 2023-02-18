@@ -13,6 +13,7 @@ public class GItTest {
 
         System.out.println("5 hot");
         System.out.println("6 remote");
+        System.out.println("7 remote7");
 
     }
 }
