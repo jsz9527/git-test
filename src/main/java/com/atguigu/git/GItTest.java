@@ -12,6 +12,7 @@ public class GItTest {
         System.out.println("5 master");
 
         System.out.println("5 hot");
+        System.out.println("6 remote");
 
     }
 }
