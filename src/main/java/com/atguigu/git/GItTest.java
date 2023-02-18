@@ -11,5 +11,7 @@ public class GItTest {
         System.out.println("4 hot");
         System.out.println("5 master");
 
+        System.out.println("5 hot");
+
     }
 }
